@@ -8,5 +8,5 @@ Collecting some useful code pieces and best practices
     - [python patterns](https://github.com/faif/python-patterns)
 - [SOLID principles](./SOLID_principles/README.md)
 - [Logging decorators](https://ankitbko.github.io/blog/2021/04/logging-in-python/)
-- [Using super() in base classe](https://eugeneyan.com/writing/uncommon-python/)
+- [Using super() in base classes](https://eugeneyan.com/writing/uncommon-python/)
 - [data classes for Python configuration](https://alexandra-zaharia.github.io/posts/python-configuration-and-dataclasses/)
