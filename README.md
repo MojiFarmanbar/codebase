@@ -6,6 +6,7 @@ Collecting some useful code pieces and best practices
 
 ## Git flow and Git branching
 - Gitflow
+
     ![](./images/gitflow.jpeg)
 - [Git tutorial](https://github.com/miguelgfierro/codebase/wiki/Git-tutorial?utm_source=substack&utm_medium=email)
 
