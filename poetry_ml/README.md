@@ -6,6 +6,7 @@ Package manager: poetry
 Virtual environment: poetry  
 Building package: poetry  
 
+
 ## Helpful commands
 - Initialize a project: poetry init 
 - Initialze a project with a folder called new_project: poetry new new_project  
@@ -17,3 +18,7 @@ Building package: poetry
 - Create .venv in the project folder: poetry config virtualenvs.in-project true  
 - check the config: poetry config  --list  
 check [here](https://python-poetry.org/) for more
+
+## Git pre-commit
+- pre-commit install (for checking the code style )
+- nbstripout --install (to remove output from your notebooks)
