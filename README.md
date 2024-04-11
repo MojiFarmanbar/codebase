@@ -41,5 +41,10 @@ Pytest is an easy and commonly used testing framework, here is a [tutorial](http
 ## Semantic Versioning (SemVer)
 [SemVar](https://semver.org/) is a popular versioning scheme that is used by a vast amount of open-source projects to communicate the changes included in a version release
 
+## Score production readiness of your ML system
+You can measure how ready is your ML system to go to production by scoring 28 actionable tests, you can find it [here](./images/ml-test-score-rubrics-and-scoring.pdf). It is based on the following paper by Google:
+- The ML Test Score:
+A Rubric for ML Production Readiness and Technical Debt Reduction, [here](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf).
+
 
 
