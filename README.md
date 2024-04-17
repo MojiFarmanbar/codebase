@@ -36,7 +36,7 @@ Collecting some useful code pieces and best practices
 Pytest is an easy and commonly used testing framework, here is a [tutorial](https://github.com/pluralsight/intro-to-pytest/tree/master)
 
 ## Command Line Interface (CLI)
-[Click](https://click.palletsprojects.com/en/7.x/) is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box.
+[Click](https://click.palletsprojects.com/en/7.x/) is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box. The alternative option is [Typer](https://typer.tiangolo.com/), it is the FastAPI of CLIs and based on Click.
 
 ## Semantic Versioning (SemVer)
 [SemVar](https://semver.org/) is a popular versioning scheme that is used by a vast amount of open-source projects to communicate the changes included in a version release
