@@ -15,6 +15,11 @@ Collecting some useful code pieces and best practices
 - [Black](https://github.com/psf/black)
 - Type hinting and checking with [mypy](https://github.com/python/mypy)
 
+## Virtual environments and dependency management
+- [Python virtual environments](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/)
+- [Conda](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
+- [Poetry](https://realpython.com/dependency-management-python-poetry/), helps you create new projects or maintain existing projects while taking care of dependency management
+
 ## Coding guidelines
 
 - [Coding guidelines](https://github.com/recommenders-team/recommenders/wiki/Coding-Guidelines?utm_source=substack&utm_medium=email)
