@@ -34,6 +34,14 @@ Collecting some useful code pieces and best practices
 ## Logging
 - [Logging decorators](https://ankitbko.github.io/blog/2021/04/logging-in-python/)
 
+## Pipeline
+If you are dealing with functions in a sequential order, where the output of one function serves as the input of the next. Creating pipeline helps in breaking down complex tasks into smaller, more manageable stpes, making code more modular, readbale, and maintainable.
+
+- [Python function](https://samroeca.com/python-function-pipelines.html) pipelines and this [example](https://dzone.com/articles/python-function-pipelines-streamlining-data-proces)
+- [Pipeline](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.pipe.html) in pandas or spark
+- Data transformation pipeline with [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+
+
 ## Configuration
 - [data classes for Python configuration](https://alexandra-zaharia.github.io/posts/python-configuration-and-dataclasses/)
 
