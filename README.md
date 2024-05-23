@@ -33,6 +33,8 @@ Collecting some useful code pieces and best practices
 
 ## Logging
 - [Logging decorators](https://ankitbko.github.io/blog/2021/04/logging-in-python/)
+- A deep dive into [python logging](https://medium.com/azure-tutorials/a-deep-dive-into-python-logging-practical-examples-for-developers-ca45a072e709)
+- good alternative package for logging, [loguru](https://github.com/Delgan/loguru)
 
 ## Pipeline
 If you are dealing with functions in a sequential order, where the output of one function serves as the input of the next. Creating pipeline helps in breaking down complex tasks into smaller, more manageable stpes, making code more modular, readbale, and maintainable.
