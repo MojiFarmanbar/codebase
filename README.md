@@ -9,6 +9,7 @@ Collecting some useful code pieces and best practices
 
     ![](./images/gitflow.jpeg)
 - [Git tutorial](https://github.com/miguelgfierro/codebase/wiki/Git-tutorial?utm_source=substack&utm_medium=email)
+- clean up [git branches](https://nickymeuleman.netlify.app/blog/delete-git-branches)
 
 ## Code style formatter
 - [flake8](https://github.com/PyCQA/flake8)
@@ -61,7 +62,7 @@ You can measure how ready is your ML system to go to production by scoring 28 ac
 - The ML Test Score:
 A Rubric for ML Production Readiness and Technical Debt Reduction, [here](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf).
 
-## Frontend application
+## Backend/Frontend application
 Sometimes you need to expose the result of your ML solution to end-users by creating a frontend or API. here is some common tools:
 - FastAPI using [full stack fastapi template](https://github.com/fastapi/full-stack-fastapi-template)
 
