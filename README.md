@@ -66,3 +66,6 @@ A Rubric for ML Production Readiness and Technical Debt Reduction, [here](https:
 Sometimes you need to expose the result of your ML solution to end-users by creating a frontend or API. here is some common tools:
 - FastAPI using [full stack fastapi template](https://github.com/fastapi/full-stack-fastapi-template)
 
+
+## MLOps
+- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
