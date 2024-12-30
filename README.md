@@ -19,6 +19,7 @@ Collecting some useful code pieces and best practices
 ## Virtual environments and dependency management
 - [Python virtual environments](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/)
 - [Conda](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
+- [uv](https://docs.astral.sh/uv/)
 - [Poetry](https://realpython.com/dependency-management-python-poetry/), helps you create new projects or maintain existing projects while taking care of dependency management
 
 ## Coding guidelines
@@ -69,3 +70,7 @@ Sometimes you need to expose the result of your ML solution to end-users by crea
 
 ## MLOps
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+
+## MacBook Pro setup
+- [My minimal MacBook Pro setup guide](https://eugeneyan.com/writing/mac-setup/?utm_source=convertkit&utm_medium=email&utm_campaign=My%20Minimal%20MacBook%20Pro%20Setup%20Guide%20-%2015710855#macos-settings)
+- [Setup Latex in VSCode](https://mathjiajia.github.io/vscode-and-latex/)
