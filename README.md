@@ -78,6 +78,10 @@ Sometimes you need to expose the result of your ML solution to end-users by crea
 
 - [Awesome Machine Learning Engineer](https://github.com/superlinear-ai/awesome-machine-learning-engineer)
 
+## Data engineer
+
+- [Data engineer handbook](https://github.com/DataExpert-io/data-engineer-handbook?utm_source=substack&utm_medium=email)
+
 ## LLM Engineer tolkit
 - [LLM engineer toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
 
