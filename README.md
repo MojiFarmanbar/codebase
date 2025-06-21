@@ -71,6 +71,8 @@ Sometimes you need to expose the result of your ML solution to end-users by crea
 
 ## MLOps
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops?utm_source=chatgpt.com)
+- [MLOps Coding Course](https://github.com/MLOps-Courses/mlops-coding-course?utm_source=chatgpt.com)
 
 ## ML Engineering
 
