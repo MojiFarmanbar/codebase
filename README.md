@@ -19,6 +19,7 @@ Collecting some useful code pieces and best practices
 ## Virtual environments and dependency management
 - [Python virtual environments](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/)
 - [Conda](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
+- [uv](https://docs.astral.sh/uv/)
 - [Poetry](https://realpython.com/dependency-management-python-poetry/), helps you create new projects or maintain existing projects while taking care of dependency management
 
 ## Coding guidelines
@@ -49,7 +50,8 @@ If you are dealing with functions in a sequential order, where the output of one
 - [data classes for Python configuration](https://alexandra-zaharia.github.io/posts/python-configuration-and-dataclasses/)
 
 ## Tests with pytest
-Pytest is an easy and commonly used testing framework, here is a [tutorial](https://github.com/pluralsight/intro-to-pytest/tree/master)
+ - Pytest is an easy and commonly used testing framework, here is a [tutorial](https://github.com/pluralsight/intro-to-pytest/tree/master)
+ - aux packages for pytest ![](./images/pytest.png)
 
 ## Command Line Interface (CLI)
 [Click](https://click.palletsprojects.com/en/7.x/) is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box. The alternative option is [Typer](https://typer.tiangolo.com/), it is the FastAPI of CLIs and based on Click.
@@ -69,3 +71,20 @@ Sometimes you need to expose the result of your ML solution to end-users by crea
 
 ## MLOps
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops?utm_source=chatgpt.com)
+- [MLOps Coding Course](https://github.com/MLOps-Courses/mlops-coding-course?utm_source=chatgpt.com)
+
+## ML Engineering
+
+- [Awesome Machine Learning Engineer](https://github.com/superlinear-ai/awesome-machine-learning-engineer)
+
+## Data engineer
+
+- [Data engineer handbook](https://github.com/DataExpert-io/data-engineer-handbook?utm_source=substack&utm_medium=email)
+
+## LLM Engineer tolkit
+- [LLM engineer toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
+
+## MacBook Pro setup
+- [My minimal MacBook Pro setup guide](https://eugeneyan.com/writing/mac-setup/?utm_source=convertkit&utm_medium=email&utm_campaign=My%20Minimal%20MacBook%20Pro%20Setup%20Guide%20-%2015710855#macos-settings)
+- [Setup Latex in VSCode](https://mathjiajia.github.io/vscode-and-latex/)
