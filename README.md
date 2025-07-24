@@ -59,10 +59,11 @@ If you are dealing with functions in a sequential order, where the output of one
 ## Semantic Versioning (SemVer)
 [SemVar](https://semver.org/) is a popular versioning scheme that is used by a vast amount of open-source projects to communicate the changes included in a version release
 
-## Score production readiness of your ML system
-You can measure how ready is your ML system to go to production by scoring 28 actionable tests, you can find it [here](./images/ml-test-score-rubrics-and-scoring.pdf). It is based on the following paper by Google:
-- The ML Test Score:
+## Production readiness and reproducibility of your ML system
+- You can measure how ready is your ML system to go to production by scoring 28 actionable tests, you can find it [here](./images/ml-test-score-rubrics-and-scoring.pdf). It is based on the following paper by Google:
+    - The ML Test Score:
 A Rubric for ML Production Readiness and Technical Debt Reduction, [here](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf).
+- [ML Reproducibility tools and best practices](https://koustuvsinha.com/practices_for_reproducibility/)
 
 ## Backend/Frontend application
 Sometimes you need to expose the result of your ML solution to end-users by creating a frontend or API. here is some common tools:
