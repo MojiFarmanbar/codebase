@@ -54,7 +54,13 @@ If you are dealing with functions in a sequential order, where the output of one
  - aux packages for pytest ![](./images/pytest.png)
 
 ## Command Line Interface (CLI)
-[Click](https://click.palletsprojects.com/en/7.x/) is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box. The alternative option is [Typer](https://typer.tiangolo.com/), it is the FastAPI of CLIs and based on Click.
+- [Click](https://click.palletsprojects.com/en/7.x/) is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box. The alternative option is [Typer](https://typer.tiangolo.com/), it is the FastAPI of CLIs and based on Click.
+- [Python-fire](https://github.com/google/python-fire), Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+
+## Why Use a Makefile in a Python Project?
+- Automation: Automates repetitive commands.
+- Consistency: Ensures team members use the same commands for tasks.
+- Convenience: Short commands like make test are easier than remembering a full pytest command.
 
 ## Semantic Versioning (SemVer)
 [SemVar](https://semver.org/) is a popular versioning scheme that is used by a vast amount of open-source projects to communicate the changes included in a version release
