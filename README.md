@@ -77,6 +77,7 @@ Sometimes you need to expose the result of your ML solution to end-users by crea
 
 ## SQL best practices
 - [SQL style guide](https://github.com/mattm/sql-style-guide)
+- [SQL style guide](https://docs.telemetry.mozilla.org/concepts/sql_style)
 
 ## MLOps
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
